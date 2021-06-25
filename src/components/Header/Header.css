@@ -1,0 +1,23 @@
+.logo-text{
+    color: #242E4C;
+    font-weight: 500;
+}
+.nav-item label:hover{
+    background-color: lightgrey;
+    border-radius: 15px;
+    color: #202142;
+    font-weight: 600;
+
+}
+.btn-log-in{
+    border: none;
+}
+.btn-sign-up{
+    background-color: #202142;
+    border:none;
+    border-radius: 5px;
+}
+.btn-sign-up:hover{
+    background-color: white;
+    color: #202142;
+}
