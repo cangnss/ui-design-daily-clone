@@ -1,0 +1,35 @@
+.donate-box {
+  width: 468px;
+  height: 306px;
+  background: #fcfcff;
+  border: 1px solid #efefff;
+  box-sizing: border-box;
+  box-shadow: 0px 36px 45px -35px rgba(2, 5, 132, 0.1);
+  border-radius: 10px;
+}
+.donate-btn{
+    width: 207px;
+    height: 54px;
+    cursor: pointer;
+    background-color: #202142;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.list-title{
+    color: #FF6A95;
+}
+.advertisement{
+    width: auto;
+    height: 127px;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.donated h4,p{
+    color: #202142;
+}
